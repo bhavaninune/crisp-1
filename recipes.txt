@@ -1,5 +1,9 @@
 
 welcome to kitchen
+menu:
 kheer
 pasta
+beans
+egg fry
+chicken fry
 thankyou:)
